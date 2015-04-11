@@ -1,2 +1,21 @@
 html {
-  background: green; }
+  background: #eee; }
+
+.main-container {
+  width: 80%;
+  margin: 0 auto;
+  clear: both; }
+
+.main-logo {
+  float: left; }
+
+.menu-list {
+  float: right; }
+
+nav a {
+  text-decoration: none;
+  color: #111; }
+
+#about {
+  background: #fff;
+  height: 500px; }
